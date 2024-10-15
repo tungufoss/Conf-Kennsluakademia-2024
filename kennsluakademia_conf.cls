@@ -103,8 +103,7 @@
             {\footnotesize \@affiliationslist \par} % Display affiliations below author list
             \vskip 1.5em
         \end{center}
-    }]
-    % Manually insert the footnotes for corresponding author and thanks after the title
+    }]    
     \vskip 1em    
     \noindent {\footnotesize\textbf{\textit{Lykilorð} -- \@keywords}} % Keywords section
 }
@@ -131,7 +130,8 @@
   \begin{minipage}{55mm}
     \includegraphics[width=\linewidth]{kennsluakademia.png} % Adjust logo file name as needed
   \end{minipage}%
+  
   \vskip 6pt
-  \\
+  
   \color{lightblue} \@conference, \@address{} \@date % Display conference name, location, and date
 }
