@@ -29,8 +29,8 @@
 \definecolor{orange}{HTML}{FFA05F}
 
 %\setbeamertemplate{blocks}[rounded][shadow=true]
-\setbeamercolor{block title}{bg=teal,fg=blue} % Teal background and blue text for the title
-\setbeamercolor{block body}{bg=teal!50!white,fg=black} % Muted teal background and black text for the body
+\setbeamercolor{block title}{bg=yellow,fg=blue} % Teal background and blue text for the title
+\setbeamercolor{block body}{bg=yellow!50!white,fg=black} % Muted teal background and black text for the body
 \setbeamercolor{block title alerted}{bg=red,fg=blue}
 \setbeamercolor{block body alerted}{bg=red!50!white,fg=black}
 \setbeamercolor{block title example}{bg=orange,fg=blue}
